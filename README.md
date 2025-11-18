@@ -105,7 +105,7 @@ bash train_NetFormer_mouse.sh
 ```bibtex
 @inproceedings{lu2025netformer,
     title     = {NetFormer: An Interpretable Model for Recovering Dynamical Connectivity in Neuronal Population Dynamics},
-    author    = {Ziyu Lu and Wuwei Zhang and Trung Le and Hao Wang and Uygar S{\"u}mb{\"u}l and Eric Shea-Brown and Lu Mi},
+    author    = {Ziyu Lu and Wuwei Zhang and Trung Le and Hao Wang and Uygar Sumbul and Eric Shea-Brown and Lu Mi},
     booktitle = {Proceedings of the International Conference on Learning Representations (ICLR)},
     year      = {2025}
 }
